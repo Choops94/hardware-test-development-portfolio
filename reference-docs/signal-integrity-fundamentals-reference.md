@@ -340,6 +340,7 @@ A square wave edge is the sum of many frequencies:
 - Continuous-time linear equalization (CTLE) at receiver
 
 **Common Issue:** Works at Gen 1, fails at Gen 2
+
 - **Cause:** Dispersion/attenuation at higher frequencies
 - **Solution:** Enable/tune equalization settings
 

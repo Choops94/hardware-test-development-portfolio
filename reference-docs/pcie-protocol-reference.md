@@ -104,7 +104,8 @@ A complete read transaction, step by step:
 
 ### The Problem
 
-When a system powers on, neither the host nor the device knows anything about the other. Before any TLPs can flow, the physical link must be brought up from scratch — before any OS or software is running.
+When a system powers on, neither the host nor the device knows anything about the other.
+Before any TLPs can flow, the physical link must be brought up from scratch — before any OS or software is running.
 
 ### LTSSM (Link Training and Status State Machine)
 
